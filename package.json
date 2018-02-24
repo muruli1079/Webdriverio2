@@ -1,0 +1,22 @@
+{
+  "name": "project3-buddysitesnapshots",
+  "version": "1.0.0",
+  "description": "project3",
+  "main": "selenium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muruli1079/Webdriverio2.git"
+  },
+  "keywords": [
+    "mp"
+  ],
+  "author": "mp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muruli1079/Webdriverio2/issues"
+  },
+  "homepage": "https://github.com/muruli1079/Webdriverio2#readme"
+}
